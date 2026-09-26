@@ -8,18 +8,13 @@ I'm an **Audio DSP Algorithm Engineer** based in Shanghai, China, born in 1989. 
 
 - [libwave](https://github.com/brglng/libwave) — a compact C library for reading and writing PCM WAV files.
 
-### Editor & Input-Method Tools
-
-- [rime-xhup](https://github.com/brglng/rime-xhup) — a Rime input scheme.
-- [vim-im-select](https://github.com/brglng/vim-im-select) — smoother input-method handling in Vim and Neovim.
-- [vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) — sidebar management for Vim and Neovim.
-- [im-control](https://github.com/brglng/im-control) — a Windows input-method switcher written in C++.
-- [bfind](https://github.com/brglng/bfind) — `find` in breadth-first order.
-- [merge-font](https://github.com/brglng/merge-font) — A font merging tool written in Python.
-
 ### Miscellaneous
 
 - [libtoml](https://github.com/brglng/libtoml) — a small C TOML parser.
+- [rime-xhup](https://github.com/brglng/rime-xhup) — a Rime input scheme.
+- [im-control](https://github.com/brglng/im-control) — a Windows input-method switcher written in C++.
+- [bfind](https://github.com/brglng/bfind) — `find` in breadth-first order.
+- [merge-font](https://github.com/brglng/merge-font) — A font merging tool written in Python.
 - [rxx](https://github.com/brglng/rxx) — Rust-flavored C++ template library.
 - [dotfiles](https://github.com/brglng/dotfiles) — My dotfiles.
 
