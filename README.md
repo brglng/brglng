@@ -20,9 +20,8 @@ I'm an **Audio DSP Algorithm Engineer** based in Shanghai, China, born in 1989. 
 
 ## Neovim Plugins 🌿
 
-- **Core plugins**
-  - [vim-im-select](https://github.com/brglng/vim-im-select) — smoother input-method handling in Vim and Neovim.
-  - [vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) — sidebar management for Vim and Neovim.
+- [vim-im-select](https://github.com/brglng/vim-im-select) — smoother input-method handling in Vim and Neovim.
+- [vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) — sidebar management for Vim and Neovim.
 
 - **Neorg extensions**
   - [neorg-indexer](https://github.com/brglng/neorg-indexer) — automatic summary generation for Neorg.
@@ -36,7 +35,6 @@ I'm an **Audio DSP Algorithm Engineer** based in Shanghai, China, born in 1989. 
 - [pi-bailian](https://github.com/brglng/pi-bailian) — adds the Aliyun Bailian Token Plan and Coding Plan as a provider.
 - [pi-currency-cost](https://github.com/brglng/pi-currency-cost) — converts configured provider and model usage costs into USD.
 - [pi-model-discovery](https://github.com/brglng/pi-model-discovery) — fetches model lists automatically for custom providers.
-- [pi-portable-sessions](https://github.com/brglng/pi-portable-sessions) — gives session directories portable names.
 - [pi-prompt-emulated-tool-call](https://github.com/brglng/pi-prompt-emulated-tool-call) — emulates tool calls through prompts for chat-only models.
 - [pi-session-sync](https://github.com/brglng/pi-session-sync) — keeps Pi Agent sessions in sync.
 
