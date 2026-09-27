@@ -18,7 +18,7 @@ I'm an **Audio DSP Algorithm Engineer** based in Shanghai, China, born in 1989. 
 - [rxx](https://github.com/brglng/rxx) — Rust-flavored C++ template library.
 - [dotfiles](https://github.com/brglng/dotfiles) — My dotfiles.
 
-## Neovim Plugins 🌿
+## Neovim/Vim Plugins 🌿
 
 - [vim-im-select](https://github.com/brglng/vim-im-select) — smoother input-method handling in Vim and Neovim.
 - [vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) — sidebar management for Vim and Neovim.
