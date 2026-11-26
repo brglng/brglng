@@ -25,7 +25,6 @@ I'm an **Audio DSP Algorithm Engineer** based in Shanghai, China, born in 1989. 
 
 - **Neorg extensions**
   - [neorg-indexer](https://github.com/brglng/neorg-indexer) — Index and search your Neorg notes and BibTeX literatures by category, author, and date.
-
   - [neorg-nabla](https://github.com/brglng/neorg-nabla) — LaTeX rendering in Neorg, powered by jbyuki's nabla.nvim.
   - [neorg-new](https://github.com/brglng/neorg-new) — `new` and `fork` subcommands for Neorg.
   - [neorg-math-renderer](https://github.com/brglng/neorg-math-renderer) — a math block and inline math renderer for Neorg.
